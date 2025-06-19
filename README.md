@@ -3,11 +3,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oluwatomiwajinadu&show_icons=true&theme=radical" alt="Oluwatomiwa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tomiwajin&show_icons=true&theme=radical" alt="Oluwatomiwa's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oluwatomiwajinadu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomiwajin&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatomiwajinadu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomiwajin&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
