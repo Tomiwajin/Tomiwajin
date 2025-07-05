@@ -2,6 +2,8 @@
 
 🎯 A passionate Software Developer and Full-Stack Engineer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tomiwajin&label=Profile%20views&color=0e75b6&style=flat-square" alt="ayush-jadaun Profile Views" /> </p>
+
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js) 
