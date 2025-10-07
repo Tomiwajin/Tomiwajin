@@ -44,7 +44,7 @@
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/oluwatomiwa-jinadu/)  
 📫 Email: oluwatomiwajinadu@email.com  
 🌐 Website v1: [Tomiwa Jinadu V1](https://tomiwa-jinadu-portfolio-v1.vercel.app/#hero)  
 🌐 Website v2: [Tomiwa Jinadu V2](https://tomiwajinadu-portfolio-v2.vercel.app)
